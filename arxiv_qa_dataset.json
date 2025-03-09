@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the research focus of the paper titled 'The Governance of Physical Artificial Intelligence'?",
+        "answer": "Physical artificial intelligence can prove to be one of the most important challenges of the artificial intelligence. The governance of physical artificial intelligence would define its responsible intelligent application in the society."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Does an artificial intelligence perform market manipulation with its own discretion? -- A genetic algorithm learns in an artificial market simulation'?",
+        "answer": "Who should be charged with responsibility for an artificial intelligence performing market manipulation have been discussed. In this study, I constructed an artificial intelligence using a genetic algorithm that learns in an artificial market simulation, and investigated whether the artificial intelligence discovers market manipulation through learning with an artificial market simulation despite a builder of artificial intelligence has no intention of market manipulation. As a result, the artificial intelligence discovered market manipulation as an optimal investment strategy. This result suggests necessity of regulation, such as obligating builders of artificial intelligence to prevent artificial intelligence from performing market manipulation."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Impact of Artificial Intelligence on Economic Theory'?",
+        "answer": "Artificial intelligence has impacted many aspects of human life. This paper studies the impact of artificial intelligence on economic theory. In particular we study the impact of artificial intelligence on the theory of bounded rationality, efficient market hypothesis and prospect theory."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'The case for psychometric artificial general intelligence'?",
+        "answer": "A short review of the literature on measurement and detection of artificial general intelligence is made. Proposed benchmarks and tests for artificial general intelligence are critically evaluated against multiple criteria. Based on the findings, the most promising approaches are identified and some useful directions for future work are proposed."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Thirteenth Conference on Uncertainty in Artificial Intelligence (1997)'?",
+        "answer": "This is the Proceedings of the Thirteenth Conference on Uncertainty in Artificial Intelligence, which was held in Providence, RI, August 1-3, 1997"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Ninth Conference on Uncertainty in Artificial Intelligence (1993)'?",
+        "answer": "This is the Proceedings of the Ninth Conference on Uncertainty in Artificial Intelligence, which was held in Washington, DC, July 9-11, 1993"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Second Conference on Uncertainty in Artificial Intelligence (1986)'?",
+        "answer": "This is the Proceedings of the Second Conference on Uncertainty in Artificial Intelligence, which was held in Philadelphia, PA, August 8-10, 1986"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Artificial Intelligence in Humans'?",
+        "answer": "In this paper, I put forward that in many instances, thinking mechanisms are equivalent to artificial intelligence modules programmed into the human mind."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'AAAI FSS-18: Artificial Intelligence in Government and Public Sector Proceedings'?",
+        "answer": "Proceedings of the AAAI Fall Symposium on Artificial Intelligence in Government and Public Sector, Arlington, Virginia, USA, October 18-20, 2018"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Watershed of Artificial Intelligence: Human Intelligence, Machine Intelligence, and Biological Intelligence'?",
+        "answer": "This article reviews the \"Once learning\" mechanism that was proposed 23 years ago and the subsequent successes of \"One-shot learning\" in image classification and \"You Only Look Once - YOLO\" in objective detection. Analyzing the current development of Artificial Intelligence (AI), the proposal is that AI should be clearly divided into the following categories: Artificial Human Intelligence (AHI), Artificial Machine Intelligence (AMI), and Artificial Biological Intelligence (ABI), which will also be the main directions of theory and application development for AI. As a watershed for the branches of AI, some classification standards and methods are discussed: 1) Human-oriented, machine-oriented, and biological-oriented AI R&D; 2) Information input processed by Dimensionality-up or Dimensionality-reduction; 3) The use of one/few or large samples for knowledge learning."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Perspective: Purposeful Failure in Artificial Life and Artificial Intelligence'?",
+        "answer": "Complex systems fail. I argue that failures can be a blueprint characterizing living organisms and biological intelligence, a control mechanism to increase complexity in evolutionary simulations, and an alternative to classical fitness optimization. Imitating biological successes in Artificial Life and Artificial Intelligence can be misleading; imitating failures offers a path towards understanding and emulating life it in artificial systems."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Comprehensible Artificial Intelligence on Knowledge Graphs: A survey'?",
+        "answer": "Artificial Intelligence applications gradually move outside the safe walls of research labs and invade our daily lives. This is also true for Machine Learning methods on Knowledge Graphs, which has led to a steady increase in their application since the beginning of the 21st century. However, in many applications, users require an explanation of the Artificial Intelligences decision. This led to increased demand for Comprehensible Artificial Intelligence. Knowledge Graphs epitomize fertile soil for Comprehensible Artificial Intelligence, due to their ability to display connected data, i.e. knowledge, in a human- as well as machine-readable way. This survey gives a short history to Comprehensible Artificial Intelligence on Knowledge Graphs. Furthermore, we contribute by arguing that the concept Explainable Artificial Intelligence is overloaded and overlapping with Interpretable Machine Learning. By introducing the parent concept Comprehensible Artificial Intelligence, we provide a clear-cut distinction of both concepts while accounting for their similarities. Thus, we provide in this survey a case for Comprehensible Artificial Intelligence on Knowledge Graphs consisting of Interpretable Machine Learning on Knowledge Graphs and Explainable Artificial Intelligence on Knowledge Graphs. This leads to the introduction of a novel taxonomy for Comprehensible Artificial Intelligence on Knowledge Graphs. In addition, a comprehensive overview of the research on Comprehensible Artificial Intelligence on Knowledge Graphs is presented and put into the context of the taxonomy. Finally, research gaps in the field of Comprehensible Artificial Intelligence on Knowledge Graphs are identified for future research."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Human $\\neq$ AGI'?",
+        "answer": "Terms Artificial General Intelligence (AGI) and Human-Level Artificial Intelligence (HLAI) have been used interchangeably to refer to the Holy Grail of Artificial Intelligence (AI) research, creation of a machine capable of achieving goals in a wide range of environments. However, widespread implicit assumption of equivalence between capabilities of AGI and HLAI appears to be unjustified, as humans are not general intelligences. In this paper, we will prove this distinction."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Artificial Intelligence Technology analysis using Artificial Intelligence patent through Deep Learning model and vector space model'?",
+        "answer": "Thanks to rapid development of artificial intelligence technology in recent years, the current artificial intelligence technology is contributing to many part of society. Education, environment, medical care, military, tourism, economy, politics, etc. are having a very large impact on society as a whole. For example, in the field of education, there is an artificial intelligence tutoring system that automatically assigns tutors based on student's level. In the field of economics, there are quantitative investment methods that automatically analyze large amounts of data to find investment laws to create investment models or predict changes in financial markets. As such, artificial intelligence technology is being used in various fields. So, it is very important to know exactly what factors have an important influence on each field of artificial intelligence technology and how the relationship between each field is connected. Therefore, it is necessary to analyze artificial intelligence technology in each field. In this paper, we analyze patent documents related to artificial intelligence technology. We propose a method for keyword analysis within factors using artificial intelligence patent data sets for artificial intelligence technology analysis. This is a model that relies on feature engineering based on deep learning model named KeyBERT, and using vector space model. A case study of collecting and analyzing artificial intelligence patent data was conducted to show how the proposed model can be applied to real world problems."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Three IQs of AI Systems and their Testing Methods'?",
+        "answer": "The rapid development of artificial intelligence has brought the artificial intelligence threat theory as well as the problem about how to evaluate the intelligence level of intelligent products. Both need to find a quantitative method to evaluate the intelligence level of intelligence systems, including human intelligence. Based on the standard intelligence system and the extended Von Neumann architecture, this paper proposes General IQ, Service IQ and Value IQ evaluation methods for intelligence systems, depending on different evaluation purposes. Among them, the General IQ of intelligence systems is to answer the question of whether the artificial intelligence can surpass the human intelligence, which is reflected in putting the intelligence systems on an equal status and conducting the unified evaluation. The Service IQ and Value IQ of intelligence systems are used to answer the question of how the intelligent products can better serve the human, reflecting the intelligence and required cost of each intelligence system as a product in the process of serving human."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Examining correlation between trust and transparency with explainable artificial intelligence'?",
+        "answer": "Trust between humans and artificial intelligence(AI) is an issue which has implications in many fields of human computer interaction. The current issue with artificial intelligence is a lack of transparency into its decision making, and literature shows that increasing transparency increases trust. Explainable artificial intelligence has the ability to increase transparency of AI, which could potentially increase trust for humans. This paper attempts to use the task of predicting yelp review star ratings with assistance from an explainable and non explainable artificial intelligence to see if trust is increased with increased transparency. Results show that for these tasks, explainable artificial intelligence provided significant increase in trust as a measure of influence."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence'?",
+        "answer": "We attempt to define what is necessary to construct an Artificial Scientist, explore and evaluate several approaches to artificial general intelligence (AGI) which may facilitate this, conclude that a unified or hybrid approach is necessary and explore two theories that satisfy this requirement to some degree."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Twenty-Seventh Conference on Uncertainty in Artificial Intelligence (2011)'?",
+        "answer": "This is the Proceedings of the Twenty-Seventh Conference on Uncertainty in Artificial Intelligence, which was held in Barcelona, Spain, July 14 - 17 2011."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial Intelligence (2010)'?",
+        "answer": "This is the Proceedings of the Twenty-Sixth Conference on Uncertainty in Artificial Intelligence, which was held on Catalina Island, CA, July 8 - 11 2010."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence (2009)'?",
+        "answer": "This is the Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence, which was held in Montreal, QC, Canada, June 18 - 21 2009."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Twenty-Fourth Conference on Uncertainty in Artificial Intelligence (2008)'?",
+        "answer": "This is the Proceedings of the Twenty-Fourth Conference on Uncertainty in Artificial Intelligence, which was held in Helsinki, Finland, July 9 - 12 2008."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Twenty-First Conference on Uncertainty in Artificial Intelligence (2005)'?",
+        "answer": "This is the Proceedings of the Twenty-First Conference on Uncertainty in Artificial Intelligence, which was held in Edinburgh, Scotland July 26 - 29 2005."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Twenty-Second Conference on Uncertainty in Artificial Intelligence (2006)'?",
+        "answer": "This is the Proceedings of the Twenty-Second Conference on Uncertainty in Artificial Intelligence, which was held in Cambridge, MA, July 13 - 16 2006."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Twentieth Conference on Uncertainty in Artificial Intelligence (2004)'?",
+        "answer": "This is the Proceedings of the Twentieth Conference on Uncertainty in Artificial Intelligence, which was held in Banff, Canada, July 7 - 11 2004."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial Intelligence (2012)'?",
+        "answer": "This is the Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial Intelligence, which was held on Catalina Island, CA August 14-18 2012."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Nineteenth Conference on Uncertainty in Artificial Intelligence (2003)'?",
+        "answer": "This is the Proceedings of the Nineteenth Conference on Uncertainty in Artificial Intelligence, which was held in Acapulco, Mexico, August 7-10 2003"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Seventeenth Conference on Uncertainty in Artificial Intelligence (2001)'?",
+        "answer": "This is the Proceedings of the Seventeenth Conference on Uncertainty in Artificial Intelligence, which was held in Seattle, WA, August 2-5 2001"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Eighteenth Conference on Uncertainty in Artificial Intelligence (2002)'?",
+        "answer": "This is the Proceedings of the Eighteenth Conference on Uncertainty in Artificial Intelligence, which was held in Alberta, Canada, August 1-4 2002"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Sixteenth Conference on Uncertainty in Artificial Intelligence (2000)'?",
+        "answer": "This is the Proceedings of the Sixteenth Conference on Uncertainty in Artificial Intelligence, which was held in San Francisco, CA, June 30 - July 3, 2000"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Fifteenth Conference on Uncertainty in Artificial Intelligence (1999)'?",
+        "answer": "This is the Proceedings of the Fifteenth Conference on Uncertainty in Artificial Intelligence, which was held in Stockholm Sweden, July 30 - August 1, 1999"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Fourteenth Conference on Uncertainty in Artificial Intelligence (1998)'?",
+        "answer": "This is the Proceedings of the Fourteenth Conference on Uncertainty in Artificial Intelligence, which was held in Madison, WI, July 24-26, 1998"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Twelfth Conference on Uncertainty in Artificial Intelligence (1996)'?",
+        "answer": "This is the Proceedings of the Twelfth Conference on Uncertainty in Artificial Intelligence, which was held in Portland, OR, August 1-4, 1996"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Eleventh Conference on Uncertainty in Artificial Intelligence (1995)'?",
+        "answer": "This is the Proceedings of the Eleventh Conference on Uncertainty in Artificial Intelligence, which was held in Montreal, QU, August 18-20, 1995"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Tenth Conference on Uncertainty in Artificial Intelligence (1994)'?",
+        "answer": "This is the Proceedings of the Tenth Conference on Uncertainty in Artificial Intelligence, which was held in Seattle, WA, July 29-31, 1994"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence (1992)'?",
+        "answer": "This is the Proceedings of the Eighth Conference on Uncertainty in Artificial Intelligence, which was held in Stanford, CA, July 17-19, 1992"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Seventh Conference on Uncertainty in Artificial Intelligence (1991)'?",
+        "answer": "This is the Proceedings of the Seventh Conference on Uncertainty in Artificial Intelligence, which was held in Los Angeles, CA, July 13-15, 1991"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Sixth Conference on Uncertainty in Artificial Intelligence (1990)'?",
+        "answer": "This is the Proceedings of the Sixth Conference on Uncertainty in Artificial Intelligence, which was held in Cambridge, MA, Jul 27 - Jul 29, 1990"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Fifth Conference on Uncertainty in Artificial Intelligence (1989)'?",
+        "answer": "This is the Proceedings of the Fifth Conference on Uncertainty in Artificial Intelligence, which was held in Windsor, ON, August 18-20, 1989"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Fourth Conference on Uncertainty in Artificial Intelligence (1988)'?",
+        "answer": "This is the Proceedings of the Fourth Conference on Uncertainty in Artificial Intelligence, which was held in Minneapolis, MN, July 10-12, 1988"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Third Conference on Uncertainty in Artificial Intelligence (1987)'?",
+        "answer": "This is the Proceedings of the Third Conference on Uncertainty in Artificial Intelligence, which was held in Seattle, WA, July 10-12, 1987"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the First Conference on Uncertainty in Artificial Intelligence (1985)'?",
+        "answer": "This is the Proceedings of the First Conference on Uncertainty in Artificial Intelligence, which was held in Los Angeles, CA, July 10-12, 1985"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Proceedings of the Twenty-Ninth Conference on Uncertainty in Artificial Intelligence (2013)'?",
+        "answer": "This is the Proceedings of the Twenty-Ninth Conference on Uncertainty in Artificial Intelligence, which was held in Bellevue, WA, August 11-15, 2013"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Philosophy in the Face of Artificial Intelligence'?",
+        "answer": "In this article, I discuss how the AI community views concerns about the emergence of superintelligent AI and related philosophical issues."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Advances in Artificial Intelligence Require Progress Across all of Computer Science'?",
+        "answer": "Advances in Artificial Intelligence require progress across all of computer science."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'AAAI FSS-19: Artificial Intelligence in Government and Public Sector Proceedings'?",
+        "answer": "Proceedings of the AAAI Fall Symposium on Artificial Intelligence in Government and Public Sector, Arlington, Virginia, USA, November 7-8, 2019"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'AAAI FSS-20: Artificial Intelligence in Government and Public Sector Proceedings'?",
+        "answer": "Proceedings of the AAAI Fall Symposium on Artificial Intelligence in Government and Public Sector, Washington, DC, USA, November 13-14, 2020"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'AAAI FSS-21: Artificial Intelligence in Government and Public Sector Proceedings'?",
+        "answer": "Proceedings of the AAAI Fall Symposium on Artificial Intelligence in Government and Public Sector, Washington, DC, USA, November 4-6, 2021"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Can transformative AI shape a new age for our civilization?: Navigating between speculation and reality'?",
+        "answer": "Artificial Intelligence is widely regarded as a transformative force with the potential to redefine numerous sectors of human civilization. While Artificial Intelligence has evolved from speculative fiction to a pivotal element of technological progress, its role as a truly transformative agent, or transformative Artificial Intelligence, remains a subject of debate. This work explores the historical precedents of technological breakthroughs, examining whether Artificial Intelligence can achieve a comparable impact, and it delves into various ethical frameworks that shape the perception and development of Artificial Intelligence. Additionally, it considers the societal, technical, and regulatory challenges that must be addressed for Artificial Intelligence to become a catalyst for global change. We also examine not only the strategies and methodologies that could lead to transformative Artificial Intelligence but also the barriers that could ultimately make these goals unattainable. We end with a critical inquiry into whether reaching a transformative Artificial Intelligence might compel humanity to adopt an entirely new ethical approach, tailored to the complexities of advanced Artificial Intelligence. By addressing the ethical, social, and scientific dimensions of Artificial Intelligence's development, this work contributes to the broader discourse on the long-term implications of Artificial Intelligence and its capacity to drive civilization toward a new era of progress or, conversely, exacerbate existing inequalities and risks."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Intelligence of Astronomical Optical Telescope: Present Status and Future Perspectives'?",
+        "answer": "Artificial intelligence technology has been widely used in astronomy, and new artificial intelligence technologies and application scenarios are constantly emerging. There have been a large number of papers reviewing the application of artificial intelligence technology in astronomy. However, relevant articles seldom mention telescope intelligence separately, and it is difficult to understand the current development status and research hotspots of telescope intelligence from these papers. This paper combines the development history of artificial intelligence technology and the difficulties of critical technologies of telescopes, comprehensively introduces the development and research hotspots of telescope intelligence, then conducts statistical analysis on various research directions of telescope intelligence and defines the research directions' merits. All kinds of research directions are evaluated, and the research trend of each telescope's intelligence is pointed out. Finally, according to the advantages of artificial intelligence technology and the development trend of telescopes, future research hotspots of telescope intelligence are given."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'AAAI-2019 Workshop on Games and Simulations for Artificial Intelligence'?",
+        "answer": "This volume represents the accepted submissions from the AAAI-2019 Workshop on Games and Simulations for Artificial Intelligence held on January 29, 2019 in Honolulu, Hawaii, USA. https://www.gamesim.ai"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'From Statistical Relational to Neuro-Symbolic Artificial Intelligence'?",
+        "answer": "Neuro-symbolic and statistical relational artificial intelligence both integrate frameworks for learning with logical reasoning. This survey identifies several parallels across seven different dimensions between these two fields. These cannot only be used to characterize and position neuro-symbolic artificial intelligence approaches but also to identify a number of directions for further research."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Games for Artificial Intelligence Research: A Review and Perspectives'?",
+        "answer": "Games have been the perfect test-beds for artificial intelligence research for the characteristics that widely exist in real-world scenarios. Learning and optimisation, decision making in dynamic and uncertain environments, game theory, planning and scheduling, design and education are common research areas shared between games and real-world problems. Numerous open-source games or game-based environments have been implemented for studying artificial intelligence. In addition to single- or multi-player, collaborative or adversarial games, there has also been growing interest in implementing platforms for creative design in recent years. Those platforms provide ideal benchmarks for exploring and comparing artificial intelligence ideas and techniques. This paper reviews the games and game-based platforms for artificial intelligence research, provides guidance on matching particular types of artificial intelligence with suitable games for testing and matching particular needs in games with suitable artificial intelligence techniques, discusses the research trend induced by the evolution of those games and platforms, and gives an outlook."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'A Study on Artificial Intelligence IQ and Standard Intelligent Model'?",
+        "answer": "Currently, potential threats of artificial intelligence (AI) to human have triggered a large controversy in society, behind which, the nature of the issue is whether the artificial intelligence (AI) system can be evaluated quantitatively. This article analyzes and evaluates the challenges that the AI development level is facing, and proposes that the evaluation methods for the human intelligence test and the AI system are not uniform; and the key reason for which is that none of the models can uniformly describe the AI system and the beings like human. Aiming at this problem, a standard intelligent system model is established in this study to describe the AI system and the beings like human uniformly. Based on the model, the article makes an abstract mathematical description, and builds the standard intelligent machine mathematical model; expands the Von Neumann architecture and proposes the Liufeng - Shiyong architecture; gives the definition of the artificial intelligence IQ, and establishes the artificial intelligence scale and the evaluation method; conduct the test on 50 search engines and three human subjects at different ages across the world, and finally obtains the ranking of the absolute IQ and deviation IQ ranking for artificial intelligence IQ 2014."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Hybrid Systems Knowledge Representation Using Modelling Environment System Techniques Artificial Intelligence'?",
+        "answer": "Knowledge-based or Artificial Intelligence techniques are used increasingly as alternatives to more classical techniques to model ENVIRONMENTAL SYSTEMS. Use of Artificial Intelligence (AI) in environmental modelling has increased with recognition of its potential. In this paper we examine the DIFFERENT TECHNIQUES of Artificial intelligence with profound examples of human perception, learning and reasoning to solve complex problems. However with the increase of complexity better methods are required. Keeping in view of the above some researchers introduced the idea of hybrid mechanism in which two or more methods can be combined which seems to be a positive effort for creating a more complex; advanced and intelligent system which has the capability to in- cooperate human decisions thus driving the landscape changes."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'A Finite-Time Technological Singularity Model With Artificial Intelligence Self-Improvement'?",
+        "answer": "Recent advances in the development of artificial intelligence, technological progress acceleration, long-term trends of macroeconomic dynamics increase the relevance of technological singularity hypothesis. In this paper, we build a model of finite-time technological singularity assuming that artificial intelligence will replace humans for artificial intelligence engineers after some point in time when it is developed enough. This model implies the following: let A be the level of development of artificial intelligence. Then, the moment of technological singularity n is defined as the point in time where artificial intelligence development function approaches infinity. Thus, it happens in finite time. Although infinite level of development of artificial intelligence cannot be reached practically, this approximation is useful for several reasons, firstly because it allows modeling a phase transition or a change of regime. In the model, intelligence growth function appears to be hyperbolic function under relatively broad conditions which we list and compare. Subsequently, we also add a stochastic term (Brownian motion) to the model and investigate the changes in its behavior. The results can be applied for the modeling of dynamics of various processes characterized by multiplicative growth."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Creativity and Artificial Intelligence: A Digital Art Perspective'?",
+        "answer": "This paper describes the application of artificial intelligence to the creation of digital art. AI is a computational paradigm that codifies intelligence into machines. There are generally three types of artificial intelligence and these are machine learning, evolutionary programming and soft computing. Machine learning is the statistical approach to building intelligent systems. Evolutionary programming is the use of natural evolutionary systems to design intelligent machines. Some of the evolutionary programming systems include genetic algorithm which is inspired by the principles of evolution and swarm optimization which is inspired by the swarming of birds, fish, ants etc. Soft computing includes techniques such as agent based modelling and fuzzy logic. Opportunities on the applications of these to digital art are explored."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Foundations of Intelligence in Natural and Artificial Systems: A Workshop Report'?",
+        "answer": "In March of 2021, the Santa Fe Institute hosted a workshop as part of its Foundations of Intelligence in Natural and Artificial Systems project. This project seeks to advance the field of artificial intelligence by promoting interdisciplinary research on the nature of intelligence. During the workshop, speakers from diverse disciplines gathered to develop a taxonomy of intelligence, articulating their own understanding of intelligence and how their research has furthered that understanding. In this report, we summarize the insights offered by each speaker and identify the themes that emerged during the talks and subsequent discussions."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'The limit of human intelligence'?",
+        "answer": "In 1998, Fields medalist Stephen Smale [S. Smale, Mathematical problems for the next century, The mathematical Intelligencer, 20(2) (1998), 7-15] proposed his famous eighteen problems to the mathematicians of this century. The statement of his eighteenth problem is very simple but very important. He asked \"What are the limits of intelligence, both artificial and human?\". In this paper, we prove that human intelligence is limitless. Moreover, we provide justifications to state that artificial intelligence has limitations. Thus, human intelligence will always remain superior to artificial intelligence. Moreover, we provide justifications to conclude the limitations of artificial intelligence."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Improving Global Weather and Ocean Wave Forecast with Large Artificial Intelligence Models'?",
+        "answer": "The rapid advancement of artificial intelligence technologies, particularly in recent years, has led to the emergence of several large parameter artificial intelligence weather forecast models. These models represent a significant breakthrough, overcoming the limitations of traditional numerical weather prediction models and indicating the emergence of profound potential tools for atmosphere-ocean forecasts. This study explores the evolution of these advanced artificial intelligence forecast models, and based on the identified commonalities, proposes the \"Three Large Rules\" to measure their development. We discuss the potential of artificial intelligence in revolutionizing numerical weather prediction, and briefly outlining the underlying reasons for its great potential. While acknowledging the high accuracy, computational efficiency, and ease of deployment of large artificial intelligence forecast models, we also emphasize the irreplaceable values of traditional numerical forecasts and explore the challenges in the future development of large-scale artificial intelligence atmosphere-ocean forecast models. We believe that the optimal future of atmosphere-ocean weather forecast lies in achieving a seamless integration of artificial intelligence and traditional numerical models. Such a synthesis is anticipated to offer a more advanced and reliable approach for improved atmosphere-ocean forecasts. Additionally, we illustrate how forecasters can adapt and leverage the advanced artificial intelligence model through an example by building a large artificial intelligence model for global ocean wave forecast."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'On a Functional Definition of Intelligence'?",
+        "answer": "Without an agreed-upon definition of intelligence, asking \"is this system intelligent?\"\" is an untestable question. This lack of consensus hinders research, and public perception, on Artificial Intelligence (AI), particularly since the rise of generative- and large-language models. Most work on precisely capturing what we mean by \"intelligence\" has come from the fields of philosophy, psychology, and cognitive science. Because these perspectives are intrinsically linked to intelligence as it is demonstrated by natural creatures, we argue such fields cannot, and will not, provide a sufficiently rigorous definition that can be applied to artificial means. Thus, we present an argument for a purely functional, black-box definition of intelligence, distinct from how that intelligence is actually achieved; focusing on the \"what\", rather than the \"how\". To achieve this, we first distinguish other related concepts (sentience, sensation, agency, etc.) from the notion of intelligence, particularly identifying how these concepts pertain to artificial intelligent systems. As a result, we achieve a formal definition of intelligence that is conceptually testable from only external observation, that suggests intelligence is a continuous variable. We conclude by identifying challenges that still remain towards quantifiable measurement. This work provides a useful perspective for both the development of AI, and for public perception of the capabilities and risks of AI."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Tests of Machine Intelligence'?",
+        "answer": "Although the definition and measurement of intelligence is clearly of fundamental importance to the field of artificial intelligence, no general survey of definitions and tests of machine intelligence exists. Indeed few researchers are even aware of alternatives to the Turing test and its many derivatives. In this paper we fill this gap by providing a short survey of the many tests of machine intelligence that have been proposed."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'An Approximation of the Universal Intelligence Measure'?",
+        "answer": "The Universal Intelligence Measure is a recently proposed formal definition of intelligence. It is mathematically specified, extremely general, and captures the essence of many informal definitions of intelligence. It is based on Hutter's Universal Artificial Intelligence theory, an extension of Ray Solomonoff's pioneering work on universal induction. Since the Universal Intelligence Measure is only asymptotically computable, building a practical intelligence test from it is not straightforward. This paper studies the practical issues involved in developing a real-world UIM-based performance metric. Based on our investigation, we develop a prototype implementation which we use to evaluate a number of different artificial agents."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'On a measure of intelligence'?",
+        "answer": "The Fall 2024 Logic in Computer Science column of the Bulletin of EATCS is a little discussion on intelligence, measuring intelligence, and related issues, provoked by a fascinating must-read article ``On the measure of intelligence'' by Fran\\c{c}ois Chollet. The discussion includes a modicum of critique of the article."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Decision under Uncertainty'?",
+        "answer": "We derive axiomatically the probability function that should be used to make decisions given any form of underlying uncertainty."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'The Book of Why: Review'?",
+        "answer": "This is a review of \"The Book of Why\", by Judea Pearl."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Bridging the Gap between Artificial Intelligence and Artificial General Intelligence: A Ten Commandment Framework for Human-Like Intelligence'?",
+        "answer": "The field of artificial intelligence has seen explosive growth and exponential success. The last phase of development showcased deep learnings ability to solve a variety of difficult problems across a multitude of domains. Many of these networks met and exceeded human benchmarks by becoming experts in the domains in which they are trained. Though the successes of artificial intelligence have begun to overshadow its failures, there is still much that separates current artificial intelligence tools from becoming the exceptional general learners that humans are. In this paper, we identify the ten commandments upon which human intelligence is systematically and hierarchically built. We believe these commandments work collectively to serve as the essential ingredients that lead to the emergence of higher-order cognition and intelligence. This paper discusses a computational framework that could house these ten commandments and suggests new architectural modifications that could lead to the development of smarter, more explainable, and generalizable artificial systems inspired by a neuromorphic approach."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Techniques for Adversarial Examples Threatening the Safety of Artificial Intelligence Based Systems'?",
+        "answer": "Artificial intelligence is known as the most effective technological field for rapid developments shaping the future of the world. Even today, it is possible to see intense use of intelligence systems in all fields of the life. Although advantages of the Artificial Intelligence are widely observed, there is also a dark side employing efforts to design hacking oriented techniques against Artificial Intelligence. Thanks to such techniques, it is possible to trick intelligent systems causing directed results for unsuccessful outputs. That is critical for also cyber wars of the future as it is predicted that the wars will be done unmanned, autonomous intelligent systems. Moving from the explanations, objective of this study is to provide information regarding adversarial examples threatening the Artificial Intelligence and focus on details of some techniques, which are used for creating adversarial examples. Adversarial examples are known as training data, which can trick a Machine Learning technique to learn incorrectly about the target problem and cause an unsuccessful or maliciously directed intelligent system at the end. The study enables the readers to learn enough about details of recent techniques for creating adversarial examples."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Action Selection Properties in a Software Simulated Agent'?",
+        "answer": "This article analyses the properties of the Internal Behaviour network, an action selection mechanism previously proposed by the authors, with the aid of a simulation developed for such ends. A brief review of the Internal Behaviour network is followed by the explanation of the implementation of the simulation. Then, experiments are presented and discussed analysing the properties of the action selection in the proposed model."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'A Novel Method for Developing Robotics via Artificial Intelligence and Internet of Things'?",
+        "answer": "This paper describe about a new methodology for developing and improving the robotics field via artificial intelligence and internet of things. Now a day, we can say Artificial Intelligence take the world into robotics. Almost all industries use robots for lot of works. They are use co-operative robots to make different kind of works. But there was some problem to make robot for multi tasks. So there was a necessary new methodology to made multi tasking robots. It will be done only by artificial intelligence and internet of things."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Modular Belief Updates and Confusion about Measures of Certainty in Artificial Intelligence Research'?",
+        "answer": "Over the last decade, there has been growing interest in the use or measures or change in belief for reasoning with uncertainty in artificial intelligence research. An important characteristic of several methodologies that reason with changes in belief or belief updates, is a property that we term modularity. We call updates that satisfy this property modular updates. Whereas probabilistic measures of belief update - which satisfy the modularity property were first discovered in the nineteenth century, knowledge and discussion of these quantities remains obscure in artificial intelligence research. We define modular updates and discuss their inappropriate use in two influential expert systems."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Stovepiping and Malicious Software: A Critical Review of AGI Containment'?",
+        "answer": "Awareness of the possible impacts associated with artificial intelligence has risen in proportion to progress in the field. While there are tremendous benefits to society, many argue that there are just as many, if not more, concerns related to advanced forms of artificial intelligence. Accordingly, research into methods to develop artificial intelligence safely is increasingly important. In this paper, we provide an overview of one such safety paradigm: containment with a critical lens aimed toward generative adversarial networks and potentially malicious artificial intelligence. Additionally, we illuminate the potential for a developmental blindspot in the stovepiping of containment mechanisms."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Human-Centered Artificial Intelligence and Machine Learning'?",
+        "answer": "Humans are increasingly coming into contact with artificial intelligence and machine learning systems. Human-centered artificial intelligence is a perspective on AI and ML that algorithms must be designed with awareness that they are part of a larger system consisting of humans. We lay forth an argument that human-centered artificial intelligence can be broken down into two aspects: (1) AI systems that understand humans from a sociocultural perspective, and (2) AI systems that help humans understand them. We further argue that issues of social responsibility such as fairness, accountability, interpretability, and transparency."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Machine Learning in Artificial Intelligence: Towards a Common Understanding'?",
+        "answer": "The application of \"machine learning\" and \"artificial intelligence\" has become popular within the last decade. Both terms are frequently used in science and media, sometimes interchangeably, sometimes with different meanings. In this work, we aim to clarify the relationship between these terms and, in particular, to specify the contribution of machine learning to artificial intelligence. We review relevant literature and present a conceptual framework which clarifies the role of machine learning to build (artificial) intelligent agents. Hence, we seek to provide more terminological clarity and a starting point for (interdisciplinary) discussions and future research."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Deep Learning, Natural Language Processing, and Explainable Artificial Intelligence in the Biomedical Domain'?",
+        "answer": "In this article, we first give an introduction to artificial intelligence and its applications in biology and medicine in Section 1. Deep learning methods are then described in Section 2. We narrow down the focus of the study on textual data in Section 3, where natural language processing and its applications in the biomedical domain are described. In Section 4, we give an introduction to explainable artificial intelligence and discuss the importance of explainability of artificial intelligence systems, especially in the biomedical domain."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'A Cybersecurity Risk Analysis Framework for Systems with Artificial Intelligence Components'?",
+        "answer": "The introduction of the European Union Artificial Intelligence Act, the NIST Artificial Intelligence Risk Management Framework, and related norms demands a better understanding and implementation of novel risk analysis approaches to evaluate systems with Artificial Intelligence components. This paper provides a cybersecurity risk analysis framework that can help assessing such systems. We use an illustrative example concerning automated driving systems."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Artificial intelligence-based blockchain-driven financial default prediction'?",
+        "answer": "With the rapid development of technology, blockchain and artificial intelligence technology are playing a huge role in all walks of life. In the financial sector, blockchain solves many security problems in data storage and management in traditional systems with its advantages of decentralization and security. And artificial intelligence has huge advantages in financial forecasting and risk management through its powerful algorithmic modeling capabilities. In financial default prediction using blockchain and artificial intelligence technology is a very powerful application. Blockchain technology guarantees the credibility of data and consistency on all nodes, and machine learning builds a high-level default prediction model through detailed analysis of big data. This study offers financial institutions new thoughts on financial technology in terms of credit risk mitigation and financial system stabilization."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Quantifying Natural and Artificial Intelligence in Robots and Natural Systems with an Algorithmic Behavioural Test'?",
+        "answer": "One of the most important aims of the fields of robotics, artificial intelligence and artificial life is the design and construction of systems and machines as versatile and as reliable as living organisms at performing high level human-like tasks. But how are we to evaluate artificial systems if we are not certain how to measure these capacities in living systems, let alone how to define life or intelligence? Here I survey a concrete metric towards measuring abstract properties of natural and artificial systems, such as the ability to react to the environment and to control one's own behaviour."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Seeding the Singularity for A.I'?",
+        "answer": "The singularity refers to an idea that once a machine having an artificial intelligence surpassing the human intelligence capacity is created, it will trigger explosive technological and intelligence growth. I propose to test the hypothesis that machine intelligence capacity can grow autonomously starting with an intelligence comparable to that of bacteria - microbial intelligence. The goal will be to demonstrate that rapid growth in intelligence capacity can be realized at all in artificial computing systems. I propose the following three properties that may allow an artificial intelligence to exhibit a steady growth in its intelligence capacity: (i) learning with the ability to modify itself when exposed to more data, (ii) acquiring new functionalities (skills), and (iii) expanding or replicating itself. The algorithms must demonstrate a rapid growth in skills of dataprocessing and analysis and gain qualitatively different functionalities, at least until the current computing technology supports their scalable development. The existing algorithms that already encompass some of these or similar properties, as well as missing abilities that must yet be implemented, will be reviewed in this work. Future computational tests could support or oppose the hypothesis that artificial intelligence can potentially grow to the level of superintelligence which overcomes the limitations in hardware by producing necessary processing resources or by changing the physical realization of computation from using chip circuits to using quantum computing principles."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Physical Artificial Intelligence: The Concept Expansion of Next-Generation Artificial Intelligence'?",
+        "answer": "Artificial Intelligence has been a growth catalyst to our society and is cosidered across all idustries as a fundamental technology. However, its development has been limited to the signal processing domain that relies on the generated and collected data from other sensors. In recent research, concepts of Digital Artificial Intelligence and Physicial Artifical Intelligence have emerged and this can be considered a big step in the theoretical development of Artifical Intelligence. In this paper we explore the concept of Physicial Artifical Intelligence and propose two subdomains: Integrated Physicial Artifical Intelligence and Distributed Physicial Artifical Intelligence. The paper will also examine the trend and governance of Physicial Artifical Intelligence."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Can Artificial Intelligence Do Everything That We Can?'?",
+        "answer": "In this article, I discuss what AI can and cannot yet do, and the implications for humanity."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Artificial Intelligence and Economic Theories'?",
+        "answer": "The advent of artificial intelligence has changed many disciplines such as engineering, social science and economics. Artificial intelligence is a computational technique which is inspired by natural intelligence such as the swarming of birds, the working of the brain and the pathfinding of the ants. These techniques have impact on economic theories. This book studies the impact of artificial intelligence on economic theories, a subject that has not been extensively studied. The theories that are considered are: demand and supply, asymmetrical information, pricing, rational choice, rational expectation, game theory, efficient market hypotheses, mechanism design, prospect, bounded rationality, portfolio theory, rational counterfactual and causality. The benefit of this book is that it evaluates existing theories of economics and update them based on the developments in artificial intelligence field."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Human-in-the-loop Artificial Intelligence'?",
+        "answer": "Little by little, newspapers are revealing the bright future that Artificial Intelligence (AI) is building. Intelligent machines will help everywhere. However, this bright future has a dark side: a dramatic job market contraction before its unpredictable transformation. Hence, in a near future, large numbers of job seekers will need financial support while catching up with these novel unpredictable jobs. This possible job market crisis has an antidote inside. In fact, the rise of AI is sustained by the biggest knowledge theft of the recent years. Learning AI machines are extracting knowledge from unaware skilled or unskilled workers by analyzing their interactions. By passionately doing their jobs, these workers are digging their own graves. In this paper, we propose Human-in-the-loop Artificial Intelligence (HIT-AI) as a fairer paradigm for Artificial Intelligence systems. HIT-AI will reward aware and unaware knowledge producers with a different scheme: decisions of AI systems generating revenues will repay the legitimate owners of the knowledge used for taking those decisions. As modern Robin Hoods, HIT-AI researchers should fight for a fairer Artificial Intelligence that gives back what it steals."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Use of Artificial Intelligence Techniques / Applications in Cyber Defense'?",
+        "answer": "Nowadays, considering the speed of the processes and the amount of data used in cyber defense, it cannot be expected to have an effective defense by using only human power without the help of automation systems. However, for the effective defense against dynamically evolving attacks on networks, it is difficult to develop software with conventional fixed algorithms. This can be achieved by using artificial intelligence methods that provide flexibility and learning capability. The likelihood of developing cyber defense capabilities through increased intelligence of defense systems is quite high. Given the problems associated with cyber defense in real life, it is clear that many cyber defense problems can be successfully solved only when artificial intelligence methods are used. In this article, the current artificial intelligence practices and techniques are reviewed and the use and importance of artificial intelligence in cyber defense systems is mentioned. The aim of this article is to be able to explain the use of these methods in the field of cyber defense with current examples by considering and analyzing the artificial intelligence technologies and methodologies that are currently being developed and integrating them with the role and adaptation of the technology and methodology in the defense of cyberspace."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'An Introductory Review of Spiking Neural Network and Artificial Neural Network: From Biological Intelligence to Artificial Intelligence'?",
+        "answer": "Recently, stemming from the rapid development of artificial intelligence, which has gained expansive success in pattern recognition, robotics, and bioinformatics, neuroscience is also gaining tremendous progress. A kind of spiking neural network with biological interpretability is gradually receiving wide attention, and this kind of neural network is also regarded as one of the directions toward general artificial intelligence. This review introduces the following sections, the biological background of spiking neurons and the theoretical basis, different neuronal models, the connectivity of neural circuits, the mainstream neural network learning mechanisms and network architectures, etc. This review hopes to attract different researchers and advance the development of brain-inspired intelligence and artificial intelligence."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Hybrid Super Intelligence and Polymetric Analysis'?",
+        "answer": "The problem of possible applications Polymetric Analysis for the resolution problems of artificial Intelligence is discussed. As example the hybrid super intelligence system by N. Moiseev type was selected. The bond between polymetric analysis and hybrid super intelligence system was shown. In operational sense polymetric analysis is more general system. Therefore main principles of Moiseev concept may be unify with the help of polymetric analysis. Main peculiarities of this unification are analyzed."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'What is Meant by AGI? On the Definition of Artificial General Intelligence'?",
+        "answer": "This paper aims to establish a consensus on AGI's definition. General intelligence refers to the adaptation to open environments according to certain principles using limited resources. It emphasizes that adaptation or learning is an indispensable property of intelligence, and places the controversial part within the principles of intelligence, which can be described from different perspectives."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'A Formal Measure of Machine Intelligence'?",
+        "answer": "A fundamental problem in artificial intelligence is that nobody really knows what intelligence is. The problem is especially acute when we need to consider artificial systems which are significantly different to humans. In this paper we approach this problem in the following way: We take a number of well known informal definitions of human intelligence that have been given by experts, and extract their essential features. These are then mathematically formalised to produce a general measure of intelligence for arbitrary machines. We believe that this measure formally captures the concept of machine intelligence in the broadest reasonable sense."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Computational Narrative Intelligence: A Human-Centered Goal for Artificial Intelligence'?",
+        "answer": "Narrative intelligence is the ability to craft, tell, understand, and respond affectively to stories. We argue that instilling artificial intelligences with computational narrative intelligence affords a number of applications beneficial to humans. We lay out some of the machine learning challenges necessary to solve to achieve computational narrative intelligence. Finally, we argue that computational narrative is a practical step towards machine enculturation, the teaching of sociocultural values to machines."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Understanding Human Intelligence through Human Limitations'?",
+        "answer": "Recent progress in artificial intelligence provides the opportunity to ask the question of what is unique about human intelligence, but with a new comparison class. I argue that we can understand human intelligence, and the ways in which it may differ from artificial intelligence, by considering the characteristics of the kind of computational problems that human minds have to solve. I claim that these problems acquire their structure from three fundamental limitations that apply to human beings: limited time, limited computation, and limited communication. From these limitations we can derive many of the properties we associate with human intelligence, such as rapid learning, the ability to break down problems into parts, and the capacity for cumulative cultural evolution."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Intelligence as information processing: brains, swarms, and computers'?",
+        "answer": "There is no agreed definition of intelligence, so it is problematic to simply ask whether brains, swarms, computers, or other systems are intelligent or not. To compare the potential intelligence exhibited by different cognitive systems, I use the common approach used by artificial intelligence and artificial life: Instead of studying the substrate of systems, let us focus on their organization. This organization can be measured with information. Thus, I apply an informationist epistemology to describe cognitive systems, including brains and computers. This allows me to frame the usefulness and limitations of the brain-computer analogy in different contexts. I also use this perspective to discuss the evolution and ecology of intelligence."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'What Does Artificial Life Tell Us About Death?'?",
+        "answer": "Short philosophical essay"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Accelerating Entrepreneurial Decision-Making Through Hybrid Intelligence'?",
+        "answer": "Accelerating Entrepreneurial Decision-Making Through Hybrid Intelligence DESIGN PARADIGMS AND PRINCIPLES FOR DECISIONAL GUIDANCE IN ENTREPRENEURSHIP"
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Integrating Generative Artificial Intelligence in Intelligent Vehicle Systems'?",
+        "answer": "This paper aims to serve as a comprehensive guide for researchers and practitioners, offering insights into the current state, potential applications, and future research directions for generative artificial intelligence and foundation models within the context of intelligent vehicles. As the automotive industry progressively integrates AI, generative artificial intelligence technologies hold the potential to revolutionize user interactions, delivering more immersive, intuitive, and personalised in-car experiences. We provide an overview of current applications of generative artificial intelligence in the automotive domain, emphasizing speech, audio, vision, and multimodal interactions. We subsequently outline critical future research areas, including domain adaptability, alignment, multimodal integration and others, as well as, address the challenges and risks associated with ethics. By fostering collaboration and addressing these research areas, generative artificial intelligence can unlock its full potential, transforming the driving experience and shaping the future of intelligent vehicles."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Measuring the intelligence of an idealized mechanical knowing agent'?",
+        "answer": "We define a notion of the intelligence level of an idealized mechanical knowing agent. This is motivated by efforts within artificial intelligence research to define real-number intelligence levels of complicated intelligent systems. Our agents are more idealized, which allows us to define a much simpler measure of intelligence level for them. In short, we define the intelligence level of a mechanical knowing agent to be the supremum of the computable ordinals that have codes the agent knows to be codes of computable ordinals. We prove that if one agent knows certain things about another agent, then the former necessarily has a higher intelligence level than the latter. This allows our intelligence notion to serve as a stepping stone to obtain results which, by themselves, are not stated in terms of our intelligence notion (results of potential interest even to readers totally skeptical that our notion correctly captures intelligence). As an application, we argue that these results comprise evidence against the possibility of intelligence explosion (that is, the notion that sufficiently intelligent machines will eventually be capable of designing even more intelligent machines, which can then design even more intelligent machines, and so on)."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Intelligent behavior depends on the ecological niche: Scaling up AI to human-like intelligence in socio-cultural environments'?",
+        "answer": "This paper outlines a perspective on the future of AI, discussing directions for machines models of human-like intelligence. We explain how developmental and evolutionary theories of human cognition should further inform artificial intelligence. We emphasize the role of ecological niches in sculpting intelligent behavior, and in particular that human intelligence was fundamentally shaped to adapt to a constantly changing socio-cultural environment. We argue that a major limit of current work in AI is that it is missing this perspective, both theoretically and experimentally. Finally, we discuss the promising approach of developmental artificial intelligence, modeling infant development through multi-scale interaction between intrinsically motivated learning, embodiment and a fastly changing socio-cultural environment. This paper takes the form of an interview of Pierre-Yves Oudeyer by Mandred Eppe, organized within the context of a KI - K{\\\"{u}}nstliche Intelligenz special issue in developmental robotics."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Artificial Intelligence for Interstellar Travel'?",
+        "answer": "The large distances involved in interstellar travel require a high degree of spacecraft autonomy, realized by artificial intelligence. The breadth of tasks artificial intelligence could perform on such spacecraft involves maintenance, data collection, designing and constructing an infrastructure using in-situ resources. Despite its importance, existing publications on artificial intelligence and interstellar travel are limited to cursory descriptions where little detail is given about the nature of the artificial intelligence. This article explores the role of artificial intelligence for interstellar travel by compiling use cases, exploring capabilities, and proposing typologies, system and mission architectures. Estimations for the required intelligence level for specific types of interstellar probes are given, along with potential system and mission architectures, covering those proposed in the literature but also presenting novel ones. Finally, a generic design for interstellar probes with an AI payload is proposed. Given current levels of increase in computational power, a spacecraft with a similar computational power as the human brain would have a mass from dozens to hundreds of tons in a 2050-2060 timeframe. Given that the advent of the first interstellar missions and artificial general intelligence are estimated to be by the mid-21st century, a more in-depth exploration of the relationship between the two should be attempted, focusing on neglected areas such as protecting the artificial intelligence payload from radiation in interstellar space and the role of artificial intelligence in self-replication."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Measuring Intelligence and Growth Rate: Variations on Hibbard's Intelligence Measure'?",
+        "answer": "In 2011, Hibbard suggested an intelligence measure for agents who compete in an adversarial sequence prediction game. We argue that Hibbard's idea should actually be considered as two separate ideas: first, that the intelligence of such agents can be measured based on the growth rates of the runtimes of the competitors that they defeat; and second, one specific (somewhat arbitrary) method for measuring said growth rates. Whereas Hibbard's intelligence measure is based on the latter growth-rate-measuring method, we survey other methods for measuring function growth rates, and exhibit the resulting Hibbard-like intelligence measures and taxonomies. Of particular interest, we obtain intelligence taxonomies based on Big-O and Big-Theta notation systems, which taxonomies are novel in that they challenge conventional notions of what an intelligence measure should look like. We discuss how intelligence measurement of sequence predictors can indirectly serve as intelligence measurement for agents with Artificial General Intelligence (AGIs)."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Cognitive Architecture for Co-Evolutionary Hybrid Intelligence'?",
+        "answer": "This paper questions the feasibility of a strong (general) data-centric artificial intelligence (AI). The disadvantages of this type of intelligence are discussed. As an alternative, the concept of co-evolutionary hybrid intelligence is proposed. It is based on the cognitive interoperability of man and machine. An analysis of existing approaches to the construction of cognitive architectures is given. An architecture seamlessly incorporates a human into the loop of intelligent problem solving is considered. The article is organized as follows. The first part contains a critique of data-centric intelligent systems. The reasons why it is impossible to create a strong artificial intelligence based on this type of intelligence are indicated. The second part briefly presents the concept of co-evolutionary hybrid intelligence and shows its advantages. The third part gives an overview and analysis of existing cognitive architectures. It is concluded that many do not consider humans part of the intelligent data processing process. The next part discusses the cognitive architecture for co-evolutionary hybrid intelligence, providing integration with humans. It finishes with general conclusions about the feasibility of developing intelligent systems with humans in the problem-solving loop."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'Psychology of Artificial Intelligence: Epistemological Markers of the Cognitive Analysis of Neural Networks'?",
+        "answer": "What is the \"nature\" of the cognitive processes and contents of an artificial neural network? In other words, how does an artificial intelligence fundamentally \"think,\" and in what form does its knowledge reside? The psychology of artificial intelligence, as predicted by Asimov (1950), aims to study this AI probing and explainability-sensitive matter. This study requires a neuronal level of cognitive granularity, so as not to be limited solely to the secondary macro-cognitive results (such as cognitive and cultural biases) of synthetic neural cognition. A prerequisite for examining the latter is to clarify some epistemological milestones regarding the cognitive status we can attribute to its phenomenology."
+    },
+    {
+        "question": "What is the research focus of the paper titled 'A Definition of Artificial Intelligence'?",
+        "answer": "In this paper we offer a formal definition of Artificial Intelligence and this directly gives us an algorithm for construction of this object. Really, this algorithm is useless due to the combinatory explosion. The main innovation in our definition is that it does not include the knowledge as a part of the intelligence. So according to our definition a newly born baby also is an Intellect. Here we differs with Turing's definition which suggests that an Intellect is a person with knowledge gained through the years."
+    }
+]
